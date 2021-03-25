@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Bienvenid@ al repositorio
 
-You can use the [editor on GitHub](https://github.com/jennifergc/tropoescrituras-observatorios/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Objetivos específicos: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Observar durante las sesiones teóricas, el desarrollo de las ciencias astronómicas en diferentes culturas desde una perspectiva decolonial.
 
-### Markdown
+- Identificar el papel de la mujer en el desarrollo conjunto de la astronomía como ciencia a partir de la revolución copernicana durante las sesiones teóricas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Realizar en las sesiones teóricas un breve recorrido histórico sobre los observatorios astronómicos dando relevancia al contexto de los actores involucrados en estos desarrollos.
 
-```markdown
-Syntax highlighted code block
+- Conocer la bóveda celeste e identificar las formas para observar y estudiar el cielo identificando el conjunto de acciones humanas involucradas, de forma teórica y práctica mediante una salida de campo.
 
-# Header 1
-## Header 2
-### Header 3
+- Conocer la estructura y modo de funcionamiento de los instrumentos astronómicos para observación (antiguos y actuales), de forma teórica y práctica con la salida de campo y la visita remota.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Preguntas orientadoras:
+- ¿Cómo funciona un observatorio astronómico?
+- ¿Cómo es un observatorio y por qué su forma?
+- ¿Qué instrumentos se han usado y se usan para la observación del cielo en astronomía?
+- ¿Cuál es el papel de la mujer en la observación astronómica?
 
-**Bold** and _Italic_ and `Code` text
+## SEMANA 1: El cielo y la astronomía en la historia humana
 
-[Link](url) and ![Image](src)
-```
+En esta sesión, inicialmente nos pondremos en contexto, identificando los conceptos y detalles más relevantes a la hora de observar el cielo a simple vista o con instrumentos ópticos. Luego de esto, realizaremos un recorrido por las cosmovisiones de las civilizaciones antiguas, los instrumentos que desarrollaron para observar el cielo, la utilidad que le daban a estos conocimientos y un poco de su mitología (de haber registros). En esta primera semana, daremos el primer paso para recuperar el papel de la mujer en estos relatos.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 1.1 Generalidades de la bóveda celeste (1h)
 
-### Jekyll Themes
+### 1.2 Astronomía de las culturas antiguas (30min)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jennifergc/tropoescrituras-observatorios/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 1.3 La mujer en la astronomía antigua (30 min)
 
-### Support or Contact
+### 1.4 Instrumentos astronómicos de la antigüedad (Parte I) (1h)
+#### 1.4.1 Forma y objetivo
+#### 1.4.2 Modo de uso
+#### 1.4.3 Ejemplos relevantes
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
