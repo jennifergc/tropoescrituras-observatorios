@@ -25,6 +25,8 @@ En esta sesión, inicialmente nos pondremos en contexto, identificando los conce
 
 ### 1.1 Generalidades de la bóveda celeste (1h)
 
+Documento: https://github.com/jennifergc/tropoescrituras-observatorios/blob/main/Hello_word.txt
+
 ### 1.2 Astronomía de las culturas antiguas (30min)
 
 ### 1.3 La mujer en la astronomía antigua (30 min)
