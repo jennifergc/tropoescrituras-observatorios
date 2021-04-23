@@ -27,10 +27,16 @@ Click al material: https://github.com/jennifergc/tropoescrituras-observatorios/t
 
 ### Itinerario:
 1.1 Generalidades de la bóveda celeste (1h)
-1.2 Astronomía de las culturas antiguas (30min)
-1.3 La mujer en la astronomía antigua (30 min)
-1.4 Instrumentos astronómicos de la antigüedad (Parte I) (1h)
-1.4.1 Forma y objetivo
-1.4.2 Modo de uso
-1.4.3 Ejemplos relevantes
+
+3.2 Astronomía de las culturas antiguas (30min)
+
+5.3 La mujer en la astronomía antigua (30 min)
+
+7.4 Instrumentos astronómicos de la antigüedad (Parte I) (1h)
+
+9.4.1 Forma y objetivo
+
+11.4.2 Modo de uso
+
+13.4.3 Ejemplos relevantes
 
