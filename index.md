@@ -23,16 +23,14 @@
 
 En esta sesión, inicialmente nos pondremos en contexto, identificando los conceptos y detalles más relevantes a la hora de observar el cielo a simple vista o con instrumentos ópticos. Luego de esto, realizaremos un recorrido por las cosmovisiones de las civilizaciones antiguas, los instrumentos que desarrollaron para observar el cielo, la utilidad que le daban a estos conocimientos y un poco de su mitología (de haber registros). En esta primera semana, daremos el primer paso para recuperar el papel de la mujer en estos relatos.
 
-### 1.1 Generalidades de la bóveda celeste (1h)
+Click al material: https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-1
 
-Documento: https://github.com/jennifergc/tropoescrituras-observatorios/blob/main/Hello_word.txt
-
-### 1.2 Astronomía de las culturas antiguas (30min)
-
-### 1.3 La mujer en la astronomía antigua (30 min)
-
-### 1.4 Instrumentos astronómicos de la antigüedad (Parte I) (1h)
-#### 1.4.1 Forma y objetivo
-#### 1.4.2 Modo de uso
-#### 1.4.3 Ejemplos relevantes
+### Itinerario:
+1.1 Generalidades de la bóveda celeste (1h)
+1.2 Astronomía de las culturas antiguas (30min)
+1.3 La mujer en la astronomía antigua (30 min)
+1.4 Instrumentos astronómicos de la antigüedad (Parte I) (1h)
+1.4.1 Forma y objetivo
+1.4.2 Modo de uso
+1.4.3 Ejemplos relevantes
 
