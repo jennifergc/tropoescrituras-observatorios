@@ -1,5 +1,13 @@
 # Bienvenid@ al repositorio
 
+En este repositorio encontrará la documentación relacionada con la asesoría para la observación astronómica, generalidades sobre observatorios y su contexto histórico con enfoque de género.
+
+Este repositorio se ha realizado para el proyecto de Investigación FBA 552-21 Tropoescrituras: hacer visible el cuerpo y su escritura en el espacio, para crear una propuesta de arquitectura fantasma: Observatorio Astronómico.
+
+Puede acceder al repositorio a través del botón de la parte superior o a través del link: https://github.com/jennifergc/tropoescrituras-observatorios
+
+Autora: Jennifer Grisales Casadiegos Para: Universidad Pedagógica Nacional, Subdirección de Gestión de proyectos CIUP - UPN
+
 ### Objetivos específicos: 
 
 - Observar durante las sesiones teóricas, el desarrollo de las ciencias astronómicas en diferentes culturas desde una perspectiva decolonial.
