@@ -48,3 +48,57 @@ Click al material: https://github.com/jennifergc/tropoescrituras-observatorios/t
 
 13.4.3 Ejemplos relevantes
 
+## SEMANA 2: Instrumentos astronómicos
+
+Avanzaremos en el tiempo, identificando la evolución de esos instrumentos astronómicos hasta la
+revolución científica, su papel actual en la ciencia o la astronomía aficionada y la llegada del
+telescopio óptico, explorando sus detalles más relevantes.
+
+
+Click al material: https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-2
+
+### Itinerario:
+2.1 Instrumentos astronómicos de la antigüedad (1h 30 min)
+2.1.1 Forma y objetivo
+
+2.1.2 Modo de uso
+
+2.1.3 Ejemplos relevantes
+
+2.2 Los primeros telescopios ópticos (1h 30 min)
+2.2.1 Forma y objetivo
+
+2.2.2 Modo de uso
+
+2.2.3 Ejemplos relevantes
+
+
+## SEMANA 3:  Historia de la Revolución Científica e Instrumentos astronómicos en la actualidad
+
+Durante esta sesión haremos una parada para atar cabos y dar una forma más robusta de la astronomía
+desde las mujeres que hicieron posible la revolución científica. Conoceremos algunas de sus exponentes
+más documentadas y, de ser posible, veremos cómo era la labor científica que realizaban. A partir de
+esto, llegaremos en nuestro relato a los instrumentos astronómicos modernos, de los que conoceremos
+sus diversas funciones y algunas generalidades de diseños y ubicaciones.
+
+
+
+Click al material: https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-3
+
+### Itinerario:
+3.1 Contexto histórico: La revolución científica y las damas de ciencia (1h 30 min)
+
+2.1.1 Forma y objetivo
+
+2.1.2 Modo de uso
+
+2.1.3 Ejemplos relevantes
+
+3.2  Instrumentos astronómicos hoy (1h 30 min)
+2.2.1 Forma y objetivo
+
+2.2.2 Modo de uso
+
+2.2.3 Ejemplos relevantes
+
+
