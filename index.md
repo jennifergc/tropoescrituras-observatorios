@@ -31,7 +31,6 @@ Autora: Jennifer Grisales Casadiegos Para: Universidad Pedagógica Nacional, Sub
 
 En esta sesión, inicialmente nos pondremos en contexto, identificando los conceptos y detalles más relevantes a la hora de observar el cielo a simple vista o con instrumentos ópticos. Luego de esto, realizaremos un recorrido por las cosmovisiones de las civilizaciones antiguas, los instrumentos que desarrollaron para observar el cielo, la utilidad que le daban a estos conocimientos y un poco de su mitología (de haber registros). En esta primera semana, daremos el primer paso para recuperar el papel de la mujer en estos relatos.
 
-[Click al material](https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-1)
 
 ### Itinerario:
 1.1 Generalidades de la bóveda celeste (1h)
@@ -48,14 +47,13 @@ En esta sesión, inicialmente nos pondremos en contexto, identificando los conce
 
 13.4.3 Ejemplos relevantes
 
-## SEMANA 2: Instrumentos astronómicos
+
+## [SEMANA 2: Instrumentos astronómicos](https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-2)
 
 Avanzaremos en el tiempo, identificando la evolución de esos instrumentos astronómicos hasta la
 revolución científica, su papel actual en la ciencia o la astronomía aficionada y la llegada del
 telescopio óptico, explorando sus detalles más relevantes.
 
-
-[Click al material](https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-2)
 
 ### Itinerario:
 2.1 Instrumentos astronómicos de la antigüedad (1h 30 min)
@@ -73,7 +71,8 @@ telescopio óptico, explorando sus detalles más relevantes.
 2.2.3 Ejemplos relevantes
 
 
-## SEMANA 3:  Historia de la Revolución Científica e Instrumentos astronómicos en la actualidad
+
+## [SEMANA 3:  Historia de la Revolución Científica e Instrumentos astronómicos en la actualidad](https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-3)
 
 Durante esta sesión haremos una parada para atar cabos y dar una forma más robusta de la astronomía
 desde las mujeres que hicieron posible la revolución científica. Conoceremos algunas de sus exponentes
@@ -81,9 +80,6 @@ más documentadas y, de ser posible, veremos cómo era la labor científica que 
 esto, llegaremos en nuestro relato a los instrumentos astronómicos modernos, de los que conoceremos
 sus diversas funciones y algunas generalidades de diseños y ubicaciones.
 
-
-
-[Click al material](https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-3)
 
 ### Itinerario:
 3.1 Contexto histórico: La revolución científica y las damas de ciencia (1h 30 min)
@@ -102,7 +98,7 @@ sus diversas funciones y algunas generalidades de diseños y ubicaciones.
 2.2.3 Ejemplos relevantes
 
 
-## SEMANA 4:   Telescopios ópticos, cúpulas, geometrías y ubicaciones
+## [SEMANA 4:   Telescopios ópticos, cúpulas, geometrías y ubicaciones](https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-4)
 
 Durante esta sesión haremos una parada para atar cabos y dar una forma más robusta de la astronomía
 desde las mujeres que hicieron posible la revolución científica. Conoceremos algunas de sus exponentes
@@ -118,10 +114,15 @@ Para cerrar nuestro recorrido, nos enfocaremos en los telescopios ópticos, expl
 básicos, sus diseños, sus ubicaciones y el modo de funcionamiento básico. Para consolidar todo lo
 conversado, haremos una visita virtual al observatorio astronómico de la Universidad Industrial de
 Santander.
+
+#### Parte 1:
 4.1 Telescopios ópticos modernos y cúpulas
 4.1.1 Diseños, formas, funcionalidad
 4.1.2 Modo de uso
 4.2 Sus ubicaciones
 4.2.1 Sitios para observación óptica en Colombia
+
+#### Parte 2:
+4.3 [VISITA AL OBSERVATORIO ASTRONÓMICO HALLEY UIS](https://drive.google.com/file/d/1xnHuxB2XD6Zs04Z6teVRkKU3GsOt1Z-R/view?usp=sharing)
 
 
