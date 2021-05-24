@@ -106,8 +106,6 @@ más documentadas y, de ser posible, veremos cómo era la labor científica que 
 esto, llegaremos en nuestro relato a los instrumentos astronómicos modernos, de los que conoceremos
 sus diversas funciones y algunas generalidades de diseños y ubicaciones.
 
-[Click al material](https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-4)
-
 
 ### Itinerario:
 Para cerrar nuestro recorrido, nos enfocaremos en los telescopios ópticos, exploraremos sus principios
@@ -124,5 +122,6 @@ Santander.
 
 #### Parte 2:
 4.3 [VISITA AL OBSERVATORIO ASTRONÓMICO HALLEY UIS](https://drive.google.com/file/d/1xnHuxB2XD6Zs04Z6teVRkKU3GsOt1Z-R/view?usp=sharing)
+4.4 Guía ¿cómo construir un telescopio casero?
 
 
