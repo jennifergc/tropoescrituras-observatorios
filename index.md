@@ -57,6 +57,7 @@ telescopio óptico, explorando sus detalles más relevantes.
 
 ### Itinerario:
 2.1 Instrumentos astronómicos de la antigüedad (1h 30 min)
+
 2.1.1 Forma y objetivo
 
 2.1.2 Modo de uso
@@ -115,16 +116,23 @@ Santander.
 
 
 4.1 Telescopios ópticos modernos y cúpulas
+
 4.1.1 Diseños, formas, funcionalidad
+
 4.1.2 Modo de uso
+
 4.2 Sus ubicaciones
+
 4.2.1 Sitios para observación óptica en Colombia
+
 
 ## [SEMANA 5:   Visita virtual a un Observatorio y Experiencia de Observación](https://github.com/jennifergc/tropoescrituras-observatorios/tree/main/semana-5)
 
 
 5.1 [VISITA AL OBSERVATORIO ASTRONÓMICO HALLEY UIS](https://drive.google.com/file/d/1xnHuxB2XD6Zs04Z6teVRkKU3GsOt1Z-R/view?usp=sharing)
+
 5.2 Guía ¿cómo construir un telescopio casero?
+
 5.3 Experiencia de observación
 
 
